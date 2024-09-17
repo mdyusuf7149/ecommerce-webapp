@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ecommerce-container
-        image: yourcontainerregistry.azurecr.io/ecommerce-webapp:latest
+        image: mohdyusuf7149/ecommerce-webapp:latest
         ports:
         - containerPort: 5000
 
